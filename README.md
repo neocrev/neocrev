@@ -20,13 +20,7 @@
 
 ### 🧍 About
 
-Backend dev who spends way too much time in the terminal.  
-I make CLI tools, GitHub Actions, and random stuff I wish existed.
-
-- 🔭 Working on: dev tools that save 5 minutes a day  
-- 🌱 Learning: Rust, Go, actual sleep schedule  
-- 💬 Ask me about: Python, Node.js, Docker, why your build is slow  
-- ⚡ Fun fact: I refactor my dotfiles more than I write actual code  
+Backend dev who spends way too much time in the terminal. I make CLI tools, GitHub Actions, and random stuff I wish existed. Currently learning Rust and Go. Ask me about Python, Node.js, Docker, or why your build is slow.
 
 ---
 
