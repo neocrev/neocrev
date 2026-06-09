@@ -42,9 +42,11 @@ Backend dev who spends way too much time in the terminal. I make CLI tools, GitH
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [junksweep](https://github.com/neocrev/junksweep) | Finds and cleans junk dirs (node_modules, pycache, ...) | Python |
-| [jsonmask](https://github.com/neocrev/jsonmask) | Masks sensitive fields in JSON for safe logging | Node.js |
-| [envshield](https://github.com/neocrev/envshield) | Catches missing env vars before they crash your app | Node.js |
+| [junksweep](https://github.com/neocrev/junksweep) | Finds and cleans junk dirs (node_modules, pycache, ...) | Python · [PyPI](https://pypi.org/project/junksweep/) |
+| [envshield](https://github.com/neocrev/envshield) | Catches missing env vars before they crash your app | Node.js · [npm](https://www.npmjs.com/package/@neocrev/envshield) |
+| [jsonmask](https://github.com/neocrev/jsonmask) | Masks sensitive fields in JSON for safe logging | Node.js · [npm](https://www.npmjs.com/package/@neocrev/jsonmask) |
+| [haze](https://github.com/neocrev/haze) | Terminal particle screensaver | Node.js · [npm](https://www.npmjs.com/package/@neocrev/haze) |
+| [prism](https://github.com/neocrev/prism) | Full-screen terminal text visualizer | Node.js · [npm](https://www.npmjs.com/package/@neocrev/prism) |
 | [pr-size-labeler](https://github.com/neocrev/pr-size-labeler) | GitHub Action that sizes your PRs automatically | JS Action |
 
 ---
