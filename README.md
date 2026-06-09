@@ -1,140 +1,85 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=40&duration=3000&pause=500&center=true&vCenter=true&width=600&height=70&color=00B4D8&lines=Hi+there+%F0%9F%91%8B;I'm+neocrev;Welcome+to+my+ocean" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=32&duration=3000&pause=500&center=true&vCenter=true&width=500&height=60&color=00B4D8&lines=Hey,+I'm+neocrev;I+build+stuff+for+devs;Welcome+to+my+cave" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <a href="https://github.com/neocrev">
-    <img src="https://img.shields.io/badge/Build-Ships-00B4D8?style=for-the-badge&logo=gatsby&logoColor=white" alt="Build ships"/>
-  </a>
+  <code>⚡ dev · ☕ coffee · 🌊 ocean lover</code>
+</p>
+
+<p align="center">
   <a href="https://github.com/neocrev?tab=repositories">
-    <img src="https://img.shields.io/badge/Open-Source-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="Open source"/>
+    <img src="https://img.shields.io/badge/Projects-00B4D8?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/neocrev?tab=followers">
-    <img src="https://img.shields.io/badge/Code-Waves-023E8A?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Code waves"/>
+    <img src="https://img.shields.io/badge/Followers-0077B6?style=flat-square&logo=github&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=neocrev&color=00B4D8&style=flat-square&label=visitors"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Wave" width="30" />
-  <b>Developer & open-source enthusiast</b>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sailboat.png" alt="Sailboat" width="30" />
-</div>
+### 🧍 About
 
-<br>
+Backend dev who spends way too much time in the terminal.  
+I make CLI tools, GitHub Actions, and random stuff I wish existed.
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Anchor.png" alt="Anchor" width="20" /> About me
-
-- 🌊 **Full-stack developer** — I build tools that make devs' lives easier  
-- ⚓ **Open-source** — Every project is MIT, every line is intentional  
-- 🐚 **Stack**: Python, Node.js, Go, Rust, TypeScript, Docker  
-- 🌏 Exploring the depths of **CLI tools**, **dev automation**, and **web apps**  
-- 📍 Currently at **anchor** in the open-source sea  
-
-</td>
-<td width="50%" align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="20" /> Current projects
-
-| Project | Description |
-|---------|------------|
-| <a href="https://github.com/neocrev/junksweep">⚓ junksweep</a> | Reclaim gigabytes from junk directories |
-| <a href="https://github.com/neocrev/jsonmask">🪸 jsonmask</a> | Mask sensitive JSON, pipe-safe |
-| <a href="https://github.com/neocrev/envshield">🛡️ envshield</a> | Validate .env before it breaks |
-| <a href="https://github.com/neocrev/pr-size-labeler">🏷️ pr-size-labeler</a> | GitHub Action for PR sizing |
-
-</td>
-</tr>
-</table>
+- 🔭 Working on: dev tools that save 5 minutes a day  
+- 🌱 Learning: Rust, Go, actual sleep schedule  
+- 💬 Ask me about: Python, Node.js, Docker, why your build is slow  
+- ⚡ Fun fact: I refactor my dotfiles more than I write actual code  
 
 ---
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="25" />
-  Ocean stats
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="25" />
-</h2>
+### 🛠 Stack
 
-<br>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=neocrev&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=00B4D8&text_color=CAF0F8&icon_color=0077B6" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=neocrev&theme=algolia&hide_border=true&background=00000000&stroke=00B4D8&ring=0077B6&fire=00B4D8&currStreakLabel=CAF0F8" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neocrev&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=00B4D8&text_color=CAF0F8" alt="Top Languages"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Up%20Arrow.png" alt="Up" width="20" />
-  Tide tracker
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Down%20Arrow.png" alt="Down" width="20" />
-</h2>
+### 📦 Projects I maintain
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [junksweep](https://github.com/neocrev/junksweep) | Finds and cleans junk dirs (node_modules, pycache, ...) | Python |
+| [jsonmask](https://github.com/neocrev/jsonmask) | Masks sensitive fields in JSON for safe logging | Node.js |
+| [envshield](https://github.com/neocrev/envshield) | Catches missing env vars before they crash your app | Node.js |
+| [pr-size-labeler](https://github.com/neocrev/pr-size-labeler) | GitHub Action that sizes your PRs automatically | JS Action |
+
+---
+
+### 📊 Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neocrev&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=4" alt="Trophies"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=neocrev&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=00B4D8&text_color=CAF0F8&icon_color=0077B6"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=neocrev&theme=algolia&hide_border=true&background=00000000&stroke=00B4D8&ring=0077B6&fire=00B4D8&currStreakLabel=CAF0F8"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neocrev&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=00B4D8&text_color=CAF0F8"/>
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Crab.png" alt="Crab" width="20" />
-  Deep sea activity
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Turtle.png" alt="Turtle" width="20" />
-</h2>
-
-<br>
+### 🌊 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neocrev&theme=react-dark&hide_border=true&bg_color=00000000&color=00B4D8&line=0077B6&point=CAF0F8&area=true" alt="Activity Graph" width="95%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/neocrev/neocrev/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="80%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neocrev&theme=react-dark&hide_border=true&bg_color=00000000&color=00B4D8&line=0077B6&point=CAF0F8&area=true" width="95%">
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Wave" width="25" />
-  Drop anchor
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" alt="Wave" width="25" />
-</h2>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/neocrev?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_my_repositories-00B4D8?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/neocrev?tab=followers">
-    <img src="https://img.shields.io/badge/Follow_the_current-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/>
-  </a>
-</div>
-
-<br>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neocrev&color=00B4D8&style=flat-square&label=Tides+visited" alt="Profile views"/>
-</p>
-
-<br>
-
-<p align="center">
-  <i>"The sea does not like to be restrained."</i> — Rick Riordan
+  <i>"The sea does not like to be restrained."</i> — some guy with a boat
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neocrev/neocrev/main/.github/ocean-divider.svg" alt="Divider" width="50%">
+  <img src="https://raw.githubusercontent.com/neocrev/neocrev/main/.github/ocean-divider.svg" width="60%">
 </p>
