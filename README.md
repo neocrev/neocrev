@@ -40,14 +40,38 @@ Backend dev who spends way too much time in the terminal. I make CLI tools, GitH
 
 ### 📦 Projects I maintain
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [junksweep](https://github.com/neocrev/junksweep) | Finds and cleans junk dirs (node_modules, pycache, ...) | Python · [PyPI](https://pypi.org/project/junksweep/) |
-| [envshield](https://github.com/neocrev/envshield) | Catches missing env vars before they crash your app | Node.js · [npm](https://www.npmjs.com/package/@neocrev/envshield) |
-| [jsonmask](https://github.com/neocrev/jsonmask) | Masks sensitive fields in JSON for safe logging | Node.js · [npm](https://www.npmjs.com/package/@neocrev/jsonmask) |
-| [haze](https://github.com/neocrev/haze) | Terminal particle screensaver | Node.js · [npm](https://www.npmjs.com/package/@neocrev/haze) |
-| [prism](https://github.com/neocrev/prism) | Full-screen terminal text visualizer | Node.js · [npm](https://www.npmjs.com/package/@neocrev/prism) |
-| [pr-size-labeler](https://github.com/neocrev/pr-size-labeler) | GitHub Action that sizes your PRs automatically | JS Action |
+#### 🕸 Web Tools
+| Project | What it does | Live |
+|---------|-------------|------|
+| [csvlens](https://github.com/neocrev/csvlens) | CSV/TSV explorer — filter, sort, chart, export | [→](https://neocrev.github.io/csvlens) |
+| [gh-browser](https://github.com/neocrev/gh-browser) | Browse GitHub repos — file tree, code search, previews | [→](https://neocrev.github.io/gh-browser) |
+| [markwiki](https://github.com/neocrev/markwiki) | Local markdown wiki — write, organize, search | [→](https://neocrev.github.io/markwiki) |
+| [jsonfmt](https://github.com/neocrev/jsonfmt) | JSON formatter & validator with syntax highlighting | [→](https://neocrev.github.io/jsonfmt) |
+| [diffr](https://github.com/neocrev/diffr) | Side-by-side & unified diff viewer | [→](https://neocrev.github.io/diffr) |
+
+#### 🧰 CLI Tools
+| Project | What it does | Install |
+|---------|-------------|---------|
+| [vault](https://github.com/neocrev/vault) | Encrypted CLI credential manager (Fernet + PyPI) | `pip install` |
+| [gitstory](https://github.com/neocrev/gitstory) | HTML reports from git history — charts, stats, contributors | `pip install` |
+| [gitus](https://github.com/neocrev/gitus) | Multi-repo git status checker with aggregate stats | `pip install` |
+| [tt](https://github.com/neocrev/tt) | Simple CLI time tracker — start, stop, log, report | `pip install` |
+| [sanstext](https://github.com/neocrev/sanstext) | Undertale-style terminal dialogue with blip sounds | `pip install` |
+| [whatfile](https://github.com/neocrev/whatfile) | Universal file metadata — images, audio, video, PDFs | `pip install` |
+| [junksweep](https://github.com/neocrev/junksweep) | Finds and cleans junk dirs (node_modules, pycache...) | `pip install junksweep` |
+| [envshield](https://github.com/neocrev/envshield) | Catches missing env vars before they crash your app | `npx @neocrev/envshield` |
+| [jsonmask](https://github.com/neocrev/jsonmask) | Masks sensitive fields in JSON for safe logging | `npx @neocrev/jsonmask` |
+
+#### 🎨 Terminal Eye Candy
+| Project | What it does | Install |
+|---------|-------------|---------|
+| [haze](https://github.com/neocrev/haze) | Terminal particle screensaver — watch stars drift | `npx @neocrev/haze` |
+| [prism](https://github.com/neocrev/prism) | Full-screen terminal text visualizer with wave/fire modes | `npx @neocrev/prism` |
+
+#### 🤖 GitHub Actions
+| Project | What it does |
+|---------|-------------|
+| [pr-size-labeler](https://github.com/neocrev/pr-size-labeler) | Automatically labels PRs by size (XS/S/M/L/XL) |
 
 ---
 
