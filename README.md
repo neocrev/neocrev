@@ -48,6 +48,7 @@ Backend dev who spends way too much time in the terminal. I make CLI tools, GitH
 | [markwiki](https://github.com/neocrev/markwiki) | Local markdown wiki — write, organize, search | [→](https://neocrev.github.io/markwiki) |
 | [jsonfmt](https://github.com/neocrev/jsonfmt) | JSON formatter & validator with syntax highlighting | [→](https://neocrev.github.io/jsonfmt) |
 | [diffr](https://github.com/neocrev/diffr) | Side-by-side & unified diff viewer | [→](https://neocrev.github.io/diffr) |
+| [textutils](https://github.com/neocrev/textutils) | Developer text utilities — Base64, URL, Hex, case | [→](https://neocrev.github.io/textutils) |
 
 #### 🧰 CLI Tools
 | Project | What it does | Install |
@@ -57,6 +58,7 @@ Backend dev who spends way too much time in the terminal. I make CLI tools, GitH
 | [gitus](https://github.com/neocrev/gitus) | Multi-repo git status checker with aggregate stats | `pip install` |
 | [tt](https://github.com/neocrev/tt) | Simple CLI time tracker — start, stop, log, report | `pip install` |
 | [sanstext](https://github.com/neocrev/sanstext) | Undertale-style terminal dialogue with blip sounds | `pip install` |
+| [pwgen](https://github.com/neocrev/pwgen) | Secure password generator — random, pronounceable, PIN | `pip install` |
 | [whatfile](https://github.com/neocrev/whatfile) | Universal file metadata — images, audio, video, PDFs | `pip install` |
 | [junksweep](https://github.com/neocrev/junksweep) | Finds and cleans junk dirs (node_modules, pycache...) | `pip install junksweep` |
 | [envshield](https://github.com/neocrev/envshield) | Catches missing env vars before they crash your app | `npx @neocrev/envshield` |
